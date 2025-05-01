@@ -1,6 +1,6 @@
 # RAG-Powered Research Paper Assistant 📚🤖
 
-A powerful research assistant built using Retrieval-Augmented Generation (RAG) to enhance your research paper queries and work. This app allows users to upload PDF documents or search for research papers on arXiv, store them, and retrieve relevant information to generate insightful responses to specific queries.
+A powerful research assistant built using Retrieval-Augmented Generation (RAG) to enhance your research paper queries and work. This app allows users to upload PDF documents or search for research papers on arXiv, store them, and retrieve relevant information to generate insightful responses to specific queries. Utilizing the power of RAG, the system can generate responses that are contextually relevant and accurate, enhancing the user's research experience.
 
 ## Features ✨
 
