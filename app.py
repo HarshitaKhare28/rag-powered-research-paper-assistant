@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 import os
 import PyPDF2
 import streamlit as st
